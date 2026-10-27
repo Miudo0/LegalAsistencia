@@ -22,13 +22,15 @@ No se incluyen JavaScript propio, formularios ni herramientas de analítica.
 ## Publicación
 
 Repositorio: `Miudo0/LegalAsistencia`, remoto SSH
-`git@github.com:Miudo0/LegalAsistencia.git`. Se prevé GitHub Pages desde `main`,
-carpeta raíz. La activación y comprobación de la URL pública están pendientes. Los archivos de mantenimiento y scripts se excluyen del sitio.
+`git@github.com:Miudo0/LegalAsistencia.git`. GitHub Pages activo desde `main`,
+carpeta raíz: https://miudo0.github.io/LegalAsistencia/. Los archivos de
+mantenimiento y scripts se excluyen del sitio.
 
 ## Validación
 
-`python3 scripts/validar.py` verifica los módulos públicos y configuración. Tras
-publicar, se deben comprobar la compilación Jekyll y las respuestas HTTP reales.
+`python3 scripts/validar.py` verifica los módulos públicos y configuración.
+El 2026-10-27 se comprobaron las cinco rutas públicas mediante cURL: HTTP 200
+por HTTPS. La revisión visual en móvil sigue pendiente.
 
 ## Referencias utilizadas
 

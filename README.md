@@ -20,13 +20,15 @@ El repositorio es `Miudo0/LegalAsistencia`. Si cambia, actualizar
 
 Textos preparados el 2026-10-27 a partir de la implementación de LectorAsistencia,
 no de las funciones del generador macOS. Repositorio creado por el usuario:
-https://github.com/Miudo0/LegalAsistencia. Primer commit y subida autorizados.
-La activación de GitHub Pages y el cambio de la app siguen pendientes.
+https://github.com/Miudo0/LegalAsistencia. Primer commit `ecdb8dd` subido a `main`.
+Sitio publicado: https://miudo0.github.io/LegalAsistencia/. Las cinco páginas
+responden HTTP 200 por HTTPS, comprobadas con cURL el 2026-10-27.
+La integración en Ajustes está a cargo de otra IA; App Store Connect sigue pendiente.
 
 Se utiliza el mismo criterio de contacto que LegalMigalla, confirmado por el usuario.
 La política de la herramienta no sustituye la información de privacidad de cada ANPA.
 
-## Publicación posterior
+## Publicación e integración
 
 1. Revisar los textos y las tareas de `TODO.md`.
 2. Subir los archivos al repositorio creado; autorización recibida el 2026-10-27.
@@ -36,7 +38,8 @@ La política de la herramienta no sustituye la información de privacidad de cad
 5. Incorporar las URLs definitivas de privacidad y soporte a App Store Connect.
 6. Añadir el acceso a privacidad dentro de Ajustes de Asistencia.
 
-La publicación y el cambio de la app son pasos posteriores, no realizados aquí.
+La publicación está completada. Pendientes: revisión móvil, App Store Connect
+y confirmar la integración en Ajustes realizada por la otra IA.
 
 ## Autotest
 
