@@ -1,0 +1,17 @@
+title: Asistencia AMPA/ANPA
+description: Privacidad, condiciones de uso y soporte de Asistencia.
+lang: es
+baseurl: /LegalAsistencia
+theme: jekyll-theme-minimal
+show_downloads: false
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
+exclude:
+  - README.md
+  - TODO.md
+  - CHANGELOG.md
+  - ARQUITECTURE.md
+  - scripts
